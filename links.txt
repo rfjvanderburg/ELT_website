@@ -1,0 +1,13 @@
+https://eso.org/wiki/bin/view/ELTScience/GSC Guide/AO stars
+https://eso.org/wiki/bin/view/ELTScience/AO_performance AO Performance
+https://eso.org/wiki/bin/view/ELTScience/Instrument_simulators Instrument Simulators/ETC
+https://eso.org/wiki/bin/view/ELTScience/Standard_stars Standard Stars
+https://eso.org/wiki/bin/view/ELTScience/Telluric_correction Telluric Correction
+https://eso.org/wiki/bin/view/ELTScience/AstroWeather Astro-weather
+https://eso.org/wiki/bin/view/ELTScience/LineCalibrations Line Calibrations
+https://eso.org/wiki/bin/view/ELTScience/Sky_subtraction Sky Subtraction
+https://eso.org/wiki/bin/view/ELTScience/PSF_reconstruction PSF Reconstruction
+https://eso.org/wiki/bin/view/ELTScience/Detectors_characterisation Detector characterisation
+https://eso.org/wiki/bin/view/ELTScience/Detectors_persistence Persistence Modelling
+https://eso.org/wiki/bin/view/ELTScience/Detectors_advanced Detector Simulations
+https://eso.org/wiki/bin/view/ELTScience/High_Contrast_Imaging High-Contrast Imaging
