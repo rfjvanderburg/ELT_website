@@ -1,4 +1,5 @@
-Purpose:
+# ELT_website
+xsPurpose:
     Make image with multiple clickable areas in HTML.
     Used for the overview in https://eso.org/wiki/bin/view/ELTScience
 
